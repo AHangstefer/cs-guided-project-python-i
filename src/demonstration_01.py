@@ -11,3 +11,18 @@ Examples:
 def addition(a, b):
     # Your code here
 
+ print("we are inside the addtion function")
+ print("another line")
+ print(a)
+ print(b)
+ return a +b
+print(addition(2,7))
+
+#print is like console.log 
+#UPER
+#Understand
+#Plan
+#Execute
+#Reflect/Repeat
+
+
